@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">! I'm Yuluka </h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cuatrosr&label=Profile%20views&color=0e75b6&style=flat" alt="yuluka"> </p>
-<img width="480px" height="360px" src="https://giphy.com/embed/yYSSBtDgbbRzq">
+<img width="480px" height="360px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5rbDR3bWZkeW40ZjUyYjdqejJ0dHJvZXFobHNtaHI0d3Izamo2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yYSSBtDgbbRzq/giphy.gif">
 
 <!--
 **yuluka/yuluka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
