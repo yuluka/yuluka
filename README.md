@@ -16,8 +16,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40">
   </a>
   
-  <a href="gmail.com" target="blank">
-    <img align="center" src="https://icons8.com/icon/P7UIlhbpWzZm/gmail" height="30" width="40">    
+  <a href="https://gmail.com" target="blank">
+    <img align="center" src="https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg" height="30" width="40">    
   </a>
 </p>
 <!--
