@@ -17,7 +17,7 @@
   </a>
   
   <a href="https://gmail.com" target="blank">
-    <img align="center" src="https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg" height="30" width="40">    
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40">    
   </a>
 </p>
 <!--
