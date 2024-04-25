@@ -12,18 +12,26 @@
 
 <h3> 📫Connect with me📫 </h3>
 <p>
-  <a href="https://api.whatsapp.com/send?phone=3127489843" target="blank">
+  <a href="https://api.whatsapp.com/send?phone=3127489843" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40">
   </a>
   
-  <a href="mailto:yulukeitor@gmail.com" target="blank">
+  <a href="mailto:yulukeitor@gmail.com" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40">
   </a>
 
-  <a href="https://www.linkedin.com/in/yuluka-gigante-muriel-933a33254/" target="blank">
+  <a href="https://www.linkedin.com/in/yuluka-gigante-muriel-933a33254/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40">
   </a>
 </p>
+
+<h3> 👨‍💻Languages and Tools👨‍💻 </h3>
+
+<h3> 📈My Github stats📈 </h3>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=cuatrosr&show_icons=true&theme=react&include_all_commits=true&locale=en" alt="yuluka" width="60%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cuatrosr&show_icons=true&theme=react&include_all_commits=true&locale=en&layout=compact" alt="yuluka" width="37%">
+
 <!--
 **yuluka/yuluka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
