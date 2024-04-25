@@ -28,9 +28,9 @@
 <h3> 👨‍💻Languages and Tools👨‍💻 </h3>
 
 <h3> 📈My Github stats📈 </h3>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cuatrosr&show_icons=true&theme=react&include_all_commits=true&locale=en" alt="yuluka" width="60%">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yuluka&show_icons=true&theme=react&include_all_commits=true&locale=en" alt="yuluka" width="60%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cuatrosr&show_icons=true&theme=react&include_all_commits=true&locale=en&layout=compact" alt="yuluka" width="37%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuluka&show_icons=true&theme=react&include_all_commits=true&locale=en&layout=compact" alt="yuluka" width="37%">
 
 <!--
 **yuluka/yuluka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
