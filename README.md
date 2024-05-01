@@ -28,11 +28,23 @@
 <h3> 👨‍💻Languages and Tools👨‍💻 </h3>
 
 <p>
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Java_Black_icon.svg/1024px-Java_Black_icon.svg.png" alt="Java" style="border-radius: 50%; width: 100px; height: 100px;">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" style="width: 100px; height: 100px;">
 
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" style="border-radius: 50%; width: 100px; height: 100px;">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" style="width: 100px; height: 100px;">
   
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1920px-Node.js_logo.svg.png" alt="Node" style="border-radius: 50%; width: 100px; height: 100px;">  
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/1920px-Scala-full-color.svg.png" alt="Scala" style="width: 100px; height: 100px;">
+
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/1024px-Kotlin_Icon_2021.svg.png" alt="Kotlin" style="width: 100px; height: 100px;">
+  
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1920px-Node.js_logo.svg.png" alt="Node" style="width: 100px; height: 100px;">
+
+  <img align="center" src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="Nest" style="width: 100px; height: 100px;">
+  
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1024px-React_Logo_SVG.svg.png" alt="React" style="width: 100px; height: 100px;">
+  
+  <img align="center" src="https://www.bigbaydata.com/wp-content/uploads/2022/11/sql_ejercicios.png" alt="SQL" style="width: 100px; height: 100px;">
+  
+  <img align="center" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" style="width: 100px; height: 100px;">
 </p>
 
 <h3> 📈My Github stats📈 </h3>
