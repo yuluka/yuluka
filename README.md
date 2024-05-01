@@ -42,7 +42,7 @@
   
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1024px-React_Logo_SVG.svg.png" alt="React" style="width: 100px; height: 100px;">
   
-  <img align="center" src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" alt="SQL" style="width: 100px; height: 100px;">
+  <img align="center" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" alt="SQL" style="width: 100px; height: 100px;">
   
   <img align="center" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" style="width: 100px; height: 100px;">
 </p>
