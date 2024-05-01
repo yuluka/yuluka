@@ -31,8 +31,8 @@
   
   <div style="flex: 1; padding: 0 15px;">
     <div style="width: 100px; height: 100px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Java_Black_icon.svg/1024px-Java_Black_icon.svg.png" alt="Java" style="border-radius: 50%; width: 100%; height: 100%;">
-      <progress value="90" max="100" style="width: 100%;"></progress>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Java_Black_icon.svg/1024px-Java_Black_icon.svg.png" alt="Java" style="border-radius: 50%; width: 100px; height: 100px;">
+      <progress value="90" max="100" style="width: 100px;"></progress>
     </div>
   </div>
 
