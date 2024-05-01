@@ -27,7 +27,7 @@
 
 <h3> 👨‍💻Languages and Tools👨‍💻 </h3>
 
-<div class="container" style="display: flex; justify-content: space-between; padding: 0 30px; margin-bottom: 50px; margin-top: 20px">
+<p>
   
   <div style="flex: 1; padding: 0 15px;">
     <div style="width: 100px; height: 100px;">
@@ -50,7 +50,7 @@
     </div>
   </div>
   
-</div>
+</p>
 
 <h3> 📈My Github stats📈 </h3>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yuluka&show_icons=true&theme=react&include_all_commits=true&locale=en" alt="yuluka" width="60%">
