@@ -27,30 +27,13 @@
 
 <h3> 👨‍💻Languages and Tools👨‍💻 </h3>
 
-<div class="container" style="display: flex; justify-content: space-between; padding: 0 30px; margin-bottom: 50px; margin-top: 20px">
-  
-  <div style="flex: 1; padding: 0 15px;">
-    <div style="width: 100px; height: 100px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Java_Black_icon.svg/1024px-Java_Black_icon.svg.png" alt="Java" style="border-radius: 50%; width: 100px; height: 100px;">
-      <progress value="90" max="100" style="width: 100px;"></progress>
-    </div>
-  </div>
+<p>
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Java_Black_icon.svg/1024px-Java_Black_icon.svg.png" alt="Java" style="border-radius: 50%; width: 100px; height: 100px;">
 
-  <div style="flex: 1; padding: 0 15px;">
-    <div style="width: 100px; height: 100px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" style="border-radius: 50%; width: 100px; height: 100px;">
-      <progress value="90" max="100" style="width: 100%;"></progress>
-    </div>
-  </div>
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" style="border-radius: 50%; width: 100px; height: 100px;">
   
-  <div style="flex: 1; padding: 0 15px;">
-    <div style="width: 100px; height: 100px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1920px-Node.js_logo.svg.png" alt="Node" style="border-radius: 50%; width: 100px; height: 100px;">
-      <progress value="60" max="100" style="width: 100%;"></progress>
-    </div>
-  </div>
-  
-</div>
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1920px-Node.js_logo.svg.png" alt="Node" style="border-radius: 50%; width: 100px; height: 100px;">  
+</p>
 
 <h3> 📈My Github stats📈 </h3>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yuluka&show_icons=true&theme=react&include_all_commits=true&locale=en" alt="yuluka" width="60%">
