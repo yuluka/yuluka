@@ -1,3 +1,6 @@
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+  
 <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">! I'm Yuluka </h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cuatrosr&label=Profile%20views&color=0e75b6&style=flat" alt="yuluka"> </p>
@@ -27,22 +30,39 @@
 
 <h3> 👨‍💻Languages and Tools👨‍💻 </h3>
 
+<div class="container d-flex mt-3 mb-5">
+  <div class="row">
+    <div class="col" style="padding-inline: 30px;">
+      <div style="width: 100px; height: 100px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Java_Black_icon.svg/1024px-Java_Black_icon.svg.png" alt="Java"  style="border-radius: 50%;width: 100px; height: 100px;">
+        <div class="progress mt-2" role="progressbar" aria-label="Default striped example" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">
+          <div class="progress-bar progress-bar-striped" style="width: 80%"></div>
+        </div>
+      </div>
+    </div>
+    <div class="col" style="padding-inline: 30px;">
+      <div style="width: 100px; height: 100px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python"  style="border-radius: 50%;width: 100px; height: 100px;">
+        <div class="progress mt-2" role="progressbar" aria-label="Default striped example" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">
+          <div class="progress-bar progress-bar-striped" style="width: 80%"></div>
+        </div>
+      </div>
+    </div>
+    <div class="col" style="padding-inline: 30px;">
+      <div style="width: 100px; height: 100px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1920px-Node.js_logo.svg.png" alt="Node"  style="border-radius: 50%;width: 100px; height: 100px;">
+        <div class="progress mt-2" role="progressbar" aria-label="Default striped example" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">
+          <div class="progress-bar progress-bar-striped" style="width: 60%"></div>
+        </div>
+      </div>
+    </div>
+    
+  </div>
+</div>
+
+
 <h3> 📈My Github stats📈 </h3>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yuluka&show_icons=true&theme=react&include_all_commits=true&locale=en" alt="yuluka" width="60%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuluka&show_icons=true&theme=react&include_all_commits=true&locale=en&layout=compact" alt="yuluka" width="37%">
 
-<!--
-**yuluka/yuluka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
