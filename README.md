@@ -59,34 +59,6 @@
   </div>
 </div>
 
-<div class="container mt-3 mb-5" style="display: flex; gap: 30px;">
-  <div style="flex: 1; padding-inline: 30px;">
-    <div style="width: 100px; height: 100px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Java_Black_icon.svg/1024px-Java_Black_icon.svg.png" alt="Java" style="border-radius: 50%; width: 100px; height: 100px;">
-      <div class="progress mt-2" role="progressbar" aria-label="Default striped example" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">
-        <div class="progress-bar progress-bar-striped" style="width: 80%"></div>
-      </div>
-    </div>
-  </div>
-  <div style="flex: 1; padding-inline: 30px;">
-    <div style="width: 100px; height: 100px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" style="border-radius: 50%; width: 100px; height: 100px;">
-      <div class="progress mt-2" role="progressbar" aria-label="Default striped example" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">
-        <div class="progress-bar progress-bar-striped" style="width: 80%"></div>
-      </div>
-    </div>
-  </div>
-  <div style="flex: 1; padding-inline: 30px;">
-    <div style="width: 100px; height: 100px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1920px-Node.js_logo.svg.png" alt="Node" style="border-radius: 50%; width: 100px; height: 100px;">
-      <div class="progress mt-2" role="progressbar" aria-label="Default striped example" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">
-        <div class="progress-bar progress-bar-striped" style="width: 60%"></div>
-      </div>
-    </div>
-  </div>
-</div>
-
-
 <h3> 📈My Github stats📈 </h3>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yuluka&show_icons=true&theme=react&include_all_commits=true&locale=en" alt="yuluka" width="60%">
 
