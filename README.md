@@ -7,23 +7,8 @@
 - 🌱 I’m currently learning **Kotlin and mobile development**.
 - 👯 I’m looking to collaborate on **open source projects, freelance projects, or partial time jobs**.
 - 💬 Ask me about **whatever you want**.
-- 📫 How to reach me: **_yulukagigante@gmail.com_**
+- 📫 How to reach me: **_yulukagigante@gmail.com_**. Or go to <a href="#connect-with-me">**Connect with me**</a>.
 - ⚡ Fun facts about me: **I love reading and coding**.
-
-<h3> 📫Connect with me📫 </h3>
-<p>
-  <a href="https://api.whatsapp.com/send?phone=3127489843" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40">
-  </a>
-  
-  <a href="mailto:yulukagigante@gmail.com" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40">
-  </a>
-
-  <a href="https://www.linkedin.com/in/yuluka-gigante-muriel-933a33254/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40">
-  </a>
-</p>
 
 <h3> 👨‍💻Languages and Tools👨‍💻 </h3>
 
@@ -47,7 +32,7 @@
   <img align="center" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" style="width: 100px; height: 100px;">
 </p>
 
-<h3> Strongest skills </h3>
+<h3> 📚Strongest skills📚 </h3>
 <p>
 Although I have a pretty good command of the above technologies, the ones that I have most enhanced during my years of formation are: 
 </p>
@@ -55,18 +40,9 @@ Although I have a pretty good command of the above technologies, the ones that I
 <p>
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" style="width: 100px; height: 100px;">
 
-  <br>
-  <br>
-
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" style="width: 100px; height: 100px;">
 
-  <br>
-  <br>
-
   <img align="center" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" alt="SQL" style="width: 100px; height: 100px;">
-  
-  <br>
-  <br>
 
   <img align="center" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" style="width: 100px; height: 100px;">
 
@@ -87,8 +63,49 @@ I believe in the power of continuous improvement and constantly seek new challen
 This GitHub repository serves as a testament to my journey, showcasing not only my past accomplishments, but also my ongoing projects and efforts. I invite you to explore and connect, as together we can create something truly extraordinary.
 </p>
 
+<h3> 📋Experience/Projects📋 </h3>
+<p>
+During my studies, at university, I have worked on different types of projects. From web applications with real clients, proposed by the university, to desktop applications with AI.
+
+Some of my favorite and most important projects are:
+
+- (Jarvis)
+- (Philanthropy)
+- (FIDCA)
+- (NodeProject CompnetIII)
+- (Virtual Pager)
+- (Rick and Morty graphics)
+- (Space Invaders)
+
+In addition, I have worked as a monitor (instructor) in undergraduate and postgraduate courses on database topics (SQL and NoSQL), artificial intelligence (machine learning and deep learning), and software engineering.
+
+Currently, I am an monitor in database subjects, and I am working on the development of a web application for an undergraduate project (not my own) within my university.
+</p>
+
+<h3> 🥇Achievements🥇 </h3>
+<p>
+Some of my personal achievements are:
+
+- Winning a full scholarship to study the career I am currently pursuing.
+- Winning a scholarship for academic excellence, at my university, twice.
+</p>
+
 <h3> 📈My Github stats📈 </h3>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yuluka&show_icons=true&theme=react&include_all_commits=true&locale=en" alt="yuluka" width="60%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuluka&show_icons=true&theme=react&include_all_commits=true&locale=en&layout=compact" alt="yuluka" width="37%">
 
+<h3 id="connect-with-me"> 📫Connect with me📫 </h3>
+<p>
+  <a href="https://api.whatsapp.com/send?phone=3127489843" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40">
+  </a>
+  
+  <a href="mailto:yulukagigante@gmail.com" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40">
+  </a>
+
+  <a href="https://www.linkedin.com/in/yuluka-gigante-muriel-933a33254/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40">
+  </a>
+</p>
