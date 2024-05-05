@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **projects with my university and undergraduate and postgraduate instructor in DB subjects**.
 - 🌱 I’m currently learning **Kotlin and mobile development**.
-- 👯 I’m looking to collaborate on **open source projects or freelance projects**.
+- 👯 I’m looking to collaborate on **open source projects, freelance projects, or partial time jobs**.
 - 💬 Ask me about **whatever you want**.
-- 📫 How to reach me: **_yulukeitor@gmail.com_**
+- 📫 How to reach me: **_yulukagigante@gmail.com_**
 - ⚡ Fun facts about me: **I love reading and coding**.
 
 <h3> 📫Connect with me📫 </h3>
@@ -16,7 +16,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40">
   </a>
   
-  <a href="mailto:yulukeitor@gmail.com" target="_blank">
+  <a href="mailto:yulukagigante@gmail.com" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40">
   </a>
 
@@ -45,6 +45,46 @@
   <img align="center" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" alt="SQL" style="width: 100px; height: 100px;">
   
   <img align="center" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" style="width: 100px; height: 100px;">
+</p>
+
+<h3> Strongest skills </h3>
+<p>
+Although I have a pretty good command of the above technologies, the ones that I have most enhanced during my years of formation are: 
+</p>
+
+<p>
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" style="width: 100px; height: 100px;">
+
+  <br>
+  <br>
+
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" style="width: 100px; height: 100px;">
+
+  <br>
+  <br>
+
+  <img align="center" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" alt="SQL" style="width: 100px; height: 100px;">
+  
+  <br>
+  <br>
+
+  <img align="center" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" style="width: 100px; height: 100px;">
+
+</p>
+
+<h3> ⚡About me⚡ </h3>
+<p>
+Hi there! I'm Yuluka, an avid coding enthusiast and especially backend development. I am a software engineering student at ICESI University.
+
+Professionally, I mainly focus on Java and Python development; of different types of software, from desktop applications, to Machine Learning and web applications; I also usually work with databases (SQL and NoSQL). I have honed my expertise over 4 years of dedicated practice and learning, in which I have been a student at my current university and have participated in different projects in search of enhancing such knowledge. I am passionate about leveraging these skills to become a fruitful developer, in search of providing computerized solutions to the problems that fill our environment.
+
+Although those are my strongest skills, I also perform very well in areas such as web development using JavaScript (NestJS, for example), or problem solving using data structures in languages like Scala or even Python.
+
+In my passage through diverse projects and experiences, I have come to embrace collaboration, innovation, the relentless pursuit of excellence, and the constant hunger for knowledge that nurtures and propels my professional and personal worth.
+
+I believe in the power of continuous improvement and constantly seek new challenges and opportunities to expand my knowledge and skills. Whether it's through learning platforms, or diving headfirst into a new project, I'm always eager to grow and evolve.
+
+This GitHub repository serves as a testament to my journey, showcasing not only my past accomplishments, but also my ongoing projects and efforts. I invite you to explore and connect, as together we can create something truly extraordinary.
 </p>
 
 <h3> 📈My Github stats📈 </h3>
