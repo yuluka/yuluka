@@ -1,7 +1,15 @@
-<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">! I'm Yuluka </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20%20👋%20I%27m%20Yuluka&font=Fira%20Code¢er=true&width=500&height=70&color=f75c7e&vCenter=true&pause=100000&size=40">
+</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=cuatrosr&label=Profile%20views&color=0e75b6&style=flat" alt="yuluka"> </p>
-<img align="right" width="480px" height="360px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5rbDR3bWZkeW40ZjUyYjdqejJ0dHJvZXFobHNtaHI0d3Izamo2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yYSSBtDgbbRzq/giphy.gif">
+<div align="center"> 
+  <img width="480px" height="360px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5rbDR3bWZkeW40ZjUyYjdqejJ0dHJvZXFobHNtaHI0d3Izamo2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yYSSBtDgbbRzq/giphy.gif">
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=500&lines=Crafting+the+Future%2C+One+Idea+at+a+Time;Software+Engineering+student">
+</p>
+
 
 - 🔭 I’m currently working on **projects with my university and undergraduate and postgraduate instructor in DB subjects**.
 - 🌱 I’m currently learning **Kotlin and mobile development**.
@@ -10,47 +18,24 @@
 - 📫 How to reach me: **_yulukagigante@gmail.com_**. Or go to <a href="#connect-with-me">**Connect with me**</a>.
 - ⚡ Fun facts about me: **I love reading and coding**.
 
-<h3> 👨‍💻Languages and Tools👨‍💻 </h3>
+<h2 align="center"> 👨‍💻Languages and Tools👨‍💻 </h2>
 
-<p>
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" style="width: 100px; height: 100px;">
-
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" style="width: 100px; height: 100px;">
-  
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/1920px-Scala-full-color.svg.png" alt="Scala" style="width: 100px; height: 100px;">
-
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/1024px-Kotlin_Icon_2021.svg.png" alt="Kotlin" style="width: 100px; height: 100px;">
-  
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1920px-Node.js_logo.svg.png" alt="Node" style="width: 100px; height: 100px;">
-
-  <img align="center" src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="Nest" style="width: 100px; height: 100px;">
-  
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1024px-React_Logo_SVG.svg.png" alt="React" style="width: 100px; height: 100px;">
-  
-  <img align="center" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" alt="SQL" style="width: 100px; height: 100px;">
-  
-  <img align="center" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" style="width: 100px; height: 100px;">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,html,scala,kotlin,nodejs,nest,react,postgres,mongo,django,flask">
 </p>
 
-<h3> 📚Strongest skills📚 </h3>
+<h2 align="center"> 📚Strongest skills📚 </h2>
 <p>
 Although I have a pretty good command of the above technologies, the ones that I have most enhanced during my years of formation are: 
 </p>
 
-<p>
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" style="width: 100px; height: 100px;">
-
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" style="width: 100px; height: 100px;">
-
-  <img align="center" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" alt="SQL" style="width: 100px; height: 100px;">
-
-  <img align="center" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" style="width: 100px; height: 100px;">
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,postgres,django">
 </p>
 
-<h3> ⚡About me⚡ </h3>
+<h2 align="center"> ⚡About me⚡ </h2>
 <p>
-Hi there! I'm Yuluka, an avid coding enthusiast and especially backend development. I am a software engineering student at ICESI University.
+<b>Hi there! I'm Yuluka</b>, an avid coding enthusiast and especially backend development. I am a software engineering student at ICESI University.
 
 Professionally, I mainly focus on Java and Python development; of different types of software, from desktop applications, to Machine Learning and web applications; I also usually work with databases (SQL and NoSQL). I have honed my expertise over 4 years of dedicated practice and learning, in which I have been a student at my current university and have participated in different projects in search of enhancing such knowledge. I am passionate about leveraging these skills to become a fruitful developer, in search of providing computerized solutions to the problems that fill our environment.
 
@@ -63,7 +48,7 @@ I believe in the power of continuous improvement and constantly seek new challen
 This GitHub repository serves as a testament to my journey, showcasing not only my past accomplishments, but also my ongoing projects and efforts. I invite you to explore and connect, as together we can create something truly extraordinary.
 </p>
 
-<h3> 📋Experience/Projects📋 </h3>
+<h2 align="center"> 📋Experience/Projects📋 </h2>
 <p>
 During my studies, at university, I have worked on different types of projects. From web applications with real clients, proposed by the university, to desktop applications with AI.
 
@@ -82,7 +67,7 @@ In addition, I have worked as a monitor (instructor) in undergraduate and postgr
 Currently, I am an monitor in database subjects, and I am working on the development of a web application for an undergraduate project (not my own) within my university.
 </p>
 
-<h3> 🥇Achievements🥇 </h3>
+<h2 align="center"> 🥇Achievements🥇 </h2>
 <p>
 Some of my personal achievements are:
 
@@ -90,22 +75,50 @@ Some of my personal achievements are:
 - Winning a scholarship for academic excellence, at my university, twice.
 </p>
 
-<h3> 📈My Github stats📈 </h3>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yuluka&show_icons=true&theme=react&include_all_commits=true&locale=en" alt="yuluka" width="60%">
+<h2 align="center"> 📈My Github stats📈 </h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuluka&show_icons=true&theme=react&include_all_commits=true&locale=en&layout=compact" alt="yuluka" width="37%">
+<p align="center">
+  
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yuluka&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
 
-<h3 id="connect-with-me"> 📫Connect with me📫 </h3>
-<p>
+  <br></br>
+  
+  <img  title="stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yuluka&theme=radical&hide_border=true" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yuluka&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
+
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=90% src="https://github-profile-trophy.vercel.app/?username=yuluka&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&no-frame=true" alt="TROPHY" />
+    </a>
+</div>
+
+</p>
+
+
+<h2 align="center"> 📫Connect with me📫 </h2>
+<div align="center">
   <a href="https://api.whatsapp.com/send?phone=3127489843" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40">
   </a>
   
   <a href="mailto:yulukagigante@gmail.com" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40">
   </a>
 
   <a href="https://www.linkedin.com/in/yuluka-gigante-muriel-933a33254/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40">
   </a>
-</p>
+</div>
