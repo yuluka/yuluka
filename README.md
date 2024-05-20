@@ -84,10 +84,6 @@ Some of my personal achievements are:
 <td width="50%" align="center">
   
   <img  align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yuluka&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-
-  <br></br>
-  
-  <img  title="stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yuluka&theme=radical&hide_border=true" /> 
 </td>
 
 <td width="50%" align="center">
