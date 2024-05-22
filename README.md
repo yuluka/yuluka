@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Kotlin and mobile development**.
 - 👯 I’m looking to collaborate on **open source projects, freelance projects, or partial time jobs**.
 - 💬 Ask me about **whatever you want**.
-- 📫 How to reach me: **_yulukagigante@gmail.com_**. Or go to <a href="#connect-with-me">**Connect with me**</a>.
+- 📫 How to reach me: **_yulukagigante@gmail.com_**. Or go to <a href="#-connect-with-me-">**Connect with me**</a>.
 - ⚡ Fun facts about me: **I love reading and coding**.
 
 <h2 align="center"> 👨‍💻Languages and Tools👨‍💻 </h2>
