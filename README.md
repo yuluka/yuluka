@@ -54,13 +54,13 @@ During my studies, at university, I have worked on different types of projects. 
 
 Some of my favorite and most important projects are:
 
-- (Jarvis)
-- (Philanthropy)
-- (FIDCA)
-- (NodeProject CompnetIII)
-- (Virtual Pager)
-- (Rick and Morty graphics)
-- (Space Invaders)
+- [Jarvis](https://github.com/yuluka/jarvis-tests)
+- [ICESI Philanthropy](https://github.com/ICESI-PI1/icesi-filantrop-a-equipo-2)
+- [ICESI FIDCA API](https://github.com/ICESI-CI3/backend-nestlovers)
+- [Event management API](https://github.com/yuluka/event_manager_api_node)
+- [Virtual Pager](https://github.com/yuluka/virtual-pager)
+- [Rick and Morty graphs](https://github.com/yuluka/rick-n-morty-graphs)
+- [Space Invaders](https://github.com/yuluka/space-invaders/tree/main)
 
 In addition, I have worked as a monitor (instructor) in undergraduate and postgraduate courses on database topics (SQL and NoSQL), artificial intelligence (machine learning and deep learning), and software engineering.
 
